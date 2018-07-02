@@ -403,6 +403,18 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 7em 0;
   clear: both; }
 
+#colorlib-services p,h2, h3, h1, h4, h5 {
+  color: white;
+}
+
+#colorlib-services {
+  background-image: url(../images/cover_img_1.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
 #colorlib-intro {
   clear: both; }
 
