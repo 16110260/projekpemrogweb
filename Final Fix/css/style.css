@@ -1496,7 +1496,7 @@ input[type="text"] {
 }
 .button {
     position:relative;
-    padding:10px 15px;
+    padding:6px 15px;
     left:-8px;
     border:2px solid #53bd84;
     background-color:#53bd84;
